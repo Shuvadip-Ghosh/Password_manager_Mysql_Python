@@ -188,7 +188,6 @@ def main():
     elif option == "10":
       print("Name : Shuvadip Ghosh")
       print("Email : shuvadipdeveloper@gmail.com")
-      print("Phone Number: 7439444588")
       print("Please feel free to contact Mr Shuvadip Ghosh For any suggestions or any issues.")
 
 if __name__ == "__main__":
